@@ -51,7 +51,7 @@ In order to start this project, I first had to purchase a car stereo. I got mine
 
 As the stereo I purchased is a different model, I found further resources that would help me understand the different wires further.
 
-{{< youtube "kR2MO2kwFug&t=1s" >}}
+{{< youtube "kR2MO2kwFug" >}}
 > This video explains the different coloured wires on the mentioned car stereo models.
 > 
 
