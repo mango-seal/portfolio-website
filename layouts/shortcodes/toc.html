@@ -1,0 +1,7 @@
+{{- /* Shortcode: {{< toc >}} - renders the page TableOfContents */ -}}
+{{- $toc := .Page.TableOfContents -}}
+{{- if $toc }}
+<div class="article-toc widget--toc">
+  {{ $toc | safeHTML }}
+</div>
+{{- end -}}

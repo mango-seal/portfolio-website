@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl      = "https://starter.stack.jimmycai.com/"
+baseurl      = "https://www.breadboardingseal.blog/"
 languageCode = "en-us"
-title        = "Hugo Theme Stack Starter"
+title        = "mango-seal's portfolio website!"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
@@ -16,3 +16,4 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
     pagerSize = 5
+
