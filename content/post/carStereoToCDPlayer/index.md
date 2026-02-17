@@ -10,6 +10,11 @@ categories:
 
 ---
 
+{{< youtube "xntwbvOY47E" >}}
+> My YouTube video showcasing the project which includes parts of some of the processes.
+> 
+---
+
 A simple yet entertaining project with a fun result!
 For the past few years, I’ve purchased albums but never listened to the music using the provided CDs. After all a decent CD player goes for about $100… 
 
