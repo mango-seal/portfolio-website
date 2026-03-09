@@ -106,7 +106,11 @@ As the assembly was quite simple, it was relatively easy and quick to finish.
 ---
 
 ## Future Directions
-[In progress]
+Ultimately, I was quite satisfied with the outcome. However, there are some aspects that could have been improved. 
+
+1) I mistook my speakers to have two output jacks, when in reality they have one audio out put and one power cable. Therefore, as you see, in the final product I have two female audio jacks. 
+
+2) Noise. As mentioned, the audio cables were shielded. My carelessness when soldering them to the ground cable may have detered the effectiveness of it. I assume this is why there is so much noise. 
 
 ---
 

@@ -1,8 +1,8 @@
+---
 title: Using an AI Agent to Code
-date: 2026-02-04
+date: 2026-03-09
 description: A mini section on how I integrate AI agents into my projects.
-image: IMG2_6299.JPG
-tags:
+image: IMG_6299.JPG
 categories: 
         - AI
         - Coding
@@ -10,7 +10,7 @@ categories:
 Coding has never been more accessible ever. With a few words and little to no knowledge in actual languages itself, we are able to create results far beyond our ability using AI. This allows us to focus on the ‘big picture’, the logic and creativity whilst the agent handles the syntax. 
 Personally, I am not the best coder out there and I have been trying to get better. But due to time limitations and big ambitions I want to achieve, I have turned to the help of coding agents. This blog will discuss how I utilise what I have to achieve desired results. 
 
-### Setting Up
+---
 
 **Step 1: The PRD (Product Requirement Document)**
 
@@ -39,3 +39,9 @@ Personally, I am not the best coder out there and I have been trying to get bett
 **Step 5: Execution**
 
 - As mentioned above, execute one major step at a time. Review the code and ask the agent questions on parts that you don’t understand.
+
+---
+
+Even just using some of these considerations can greatly improve workflow and the experience of using a coding agent. It has never been a better time to try electronics as a hobby :D.
+
+Thank you for reading! - Seoeun
